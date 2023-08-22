@@ -2,7 +2,10 @@
 <h3 align="center">Mi nombre es Luis Alejandro y soy de Colombia CO.</h3>
 
 <h3 align="left">Connect with me:</h3>
-<li>Estudiante de ingenieria de software</li>
+<li>
+  <li>Estudiante de ingenieria de software</li>
+</li>
+
 <p align="left">
 </p>
 
