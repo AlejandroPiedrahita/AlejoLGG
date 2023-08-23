@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, Soy Luis Alejandro Piedtahita Gomez</h1>
-<h3 align="center">Mi nombre es Luis Alejandro y soy de Colombia CO.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mi nombre es Luis Alejandro y soy de Colombia CO.</h3>
 <li>Estudiante de ingenieria de software</li>
 
 <p align="left">
