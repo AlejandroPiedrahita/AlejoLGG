@@ -8,7 +8,7 @@
 <li>SpingBoot</li>
 <li>PHP</li>
 <li>Python</li>
-<li>HTML, CSS JS</li>
+<li>HTML, CSS y JS</li>
 <li>Angular</li>
 <li>SQL</li>
 
