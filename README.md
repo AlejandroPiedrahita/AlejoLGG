@@ -2,6 +2,7 @@
 
 <h3 align="left">Mi nombre es Luis Alejandro y soy de Colombia CO.</h3>
 <li>Estudiante de ingenieria de software</li>
+<li>Estudiante apasionado</li>
 
 <h3 align="left">Habilidades</h3>
 <li>Java</li>
