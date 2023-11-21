@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Luis Alejandro Piedtahita Gomez</h1>
+<h1 align="center">Hola 👋, Soy Luis Alejandro Piedrahita Gomez</h1>
 
 <h3 align="left">Mi nombre es Luis Alejandro y soy de Colombia CO.</h3>
 <li>Estudiante de ingenieria de software</li>
